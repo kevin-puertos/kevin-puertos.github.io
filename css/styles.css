@@ -145,6 +145,18 @@ body {
 
 /* SECCIONES */
 
+.lista-estudios {
+    margin-left: 20px;
+    padding-left: 15px;
+    list-style-type: circle;
+}
+
+.subtitulo-estudios {
+    margin: 5px 0;
+    margin-left: 0;
+    color:var(--text-secondary);
+}
+
 .section-card {
     background-color: var(--card);
     border: 1px solid var(--border);
